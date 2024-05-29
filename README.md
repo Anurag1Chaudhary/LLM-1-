@@ -1,4 +1,4 @@
-# YouTube Video Summarizer
+# YTTranscribe
 
 This application processes YouTube video transcripts to generate concise summaries. The summarizer extracts key points and main ideas, providing a clear overview of the video content in bullet points, with a maximum limit of 250 words.
 
